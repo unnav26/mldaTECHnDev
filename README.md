@@ -3,6 +3,6 @@ This is just a website made to showcase the Technology and Development skills th
 Made this quickly so this is not actually very functional. 
 Def had fun doing this tho
 
-#here's the website if you wanna acess it:
+#here's the website if you wanna access it:
 https://v0-new-project-ci4vhblolk5.vercel.app/
 have fun viewing :)
